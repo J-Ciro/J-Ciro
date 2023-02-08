@@ -5,7 +5,7 @@
 I am a Software Developer and Ethical Hacker who since childhood has loved to break things and fix them or even build new things! also Im passionate about **GNU/Linux** and likes to **Hack Stuff**. :shipit:
 
  ### Projects
- - JOI - AI Project :construction:
+ - Coming Soon.
  - ???
  - ???
 <br>
