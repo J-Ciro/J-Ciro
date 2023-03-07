@@ -10,7 +10,10 @@ I am a Software Developer and Ethical Hacker who since childhood has loved to br
  - ???
 <br>
 
+ [Blog](https://www.ciro-dev.tech/blog/)
+
 ------
+
 
 ### Languages
 
