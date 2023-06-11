@@ -34,8 +34,10 @@ I am a Software Developer and Ethical Hacker who since childhood has loved to br
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=grey)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=grey)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=grey)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&color=grey)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&color=grey)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&color=grey)
 
 ### Technologies
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=grey)
@@ -44,3 +46,8 @@ I am a Software Developer and Ethical Hacker who since childhood has loved to br
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&color=grey)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
 ![Boostrap5](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap&color=grey)
+![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel&color=grey)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack&color=grey)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&color=grey)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&color=grey)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
