@@ -51,3 +51,7 @@ I am a Software Developer and Ethical Hacker who since childhood has loved to br
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&color=grey)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&color=grey)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&color=grey)
+![Sanity](https://img.shields.io/badge/-Sanity-000?&logo=Sanity&color=grey)
+![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=ReactRouter&color=grey)
+![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios&color=grey)
