@@ -1,6 +1,6 @@
  <img align="left" src="https://orhun.dev/img/crow.png">
 
-![user](https://img.shields.io/badge/User-J--Ciro-black)
+![user](https://img.shields.io/badge/User-J--Ciro-747589)
 ### Hey!
 I am a Software Full Stack Developer, since childhood I loved to create, innovate and build new things. also Im passionate about Design! :shipit:
 
