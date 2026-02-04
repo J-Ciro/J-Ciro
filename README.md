@@ -1,55 +1,29 @@
- ```                                
-                                                                  ..       ..             
-                                       .uef^"               x .d88"  x .d88"              
-                                     :d88E                   5888R    5888R          u.   
-                                     `888E            .u     '888R    '888R    ...ue888b  
-                                      888E .z8k    ud8888.    888R     888R    888R Y888r 
-                                      888E~?888L :888'8888.   888R     888R    888R I888> 
-                                      888E  888E d888 '88%"   888R     888R    888R I888> 
-                                      888E  888E 8888.+"      888R     888R    888R I888> 
-                                      888E  888E 8888L        888R     888R   u8888cJ888  
-                                      888E  888E '8888c. .+  .888B .  .888B .  "*888*P"   
-                                     m888N= 888>  "88888%    ^*888%   ^*888%     'Y"      
-                                      `Y"   888     "YP'       "%       "%                
-                                           J88"                                           
-                                           @%                                             
-                                         :"                                                 
-                                   
-                                   +──────────────────────Welcome to my Github──────────────────+    
-                                                
- ```
- 
  <img align="left" src="https://orhun.dev/img/crow.png">
 
 ![user](https://img.shields.io/badge/User-J--Ciro-black)
 ### Hey!
-I am a Software Full Stack Developer and Ethical Hacker who since childhood has loved to break things and fix them or even build new things! also Im passionate about **GNU/Linux** and likes to **Hack Stuff**. :shipit:
+I am a Software Full Stack Developer, since childhood I loved to create, innovate and build new things. also Im passionate about Design! :shipit:
 
 <br>
 
-
-
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=grey)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&color=grey)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&color=grey)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&color=grey)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&color=grey)
+[![JavaScript](https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-212121?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![Sass](https://img.shields.io/badge/Sass-212121?style=for-the-badge&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
+[![CSS](https://img.shields.io/badge/CSS-212121?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### Technologies
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=grey)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&color=grey)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&color=grey)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&color=grey)
-![React](https://img.shields.io/badge/-React-000?&logo=React&color=grey)
-![Boostrap5](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap&color=grey)
-![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel&color=grey)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack&color=grey)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&color=grey)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel&color=grey)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&color=grey)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&color=grey)
-![Sanity](https://img.shields.io/badge/-Sanity-000?&logo=Sanity&color=grey)
-![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=ReactRouter&color=grey)
-![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios&color=grey)
+
+
+[![Docker](https://img.shields.io/badge/Docker-212121?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-212121?style=for-the-badge&logo=node.js&logoColor=43853D)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-212121?style=for-the-badge&logo=firebase&logoColor=FFCB91)](https://firebase.google.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![Redux](https://img.shields.io/badge/Redux-212121?style=for-the-badge&logo=redux&logoColor=764ABC)](https://redux.js.org/)
+[![Angular](https://img.shields.io/badge/Angular-212121?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.dev/)
+[![Express.js](https://img.shields.io/badge/Express.js-212121?style=for-the-badge&logo=express&logoColor=404040)](https://expressjs.com/)
+[![Playwright](https://img.shields.io/badge/Playwright-212121?style=for-the-badge&logo=playwright&logoColor=3F75E8)](https://playwright.dev/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-212121?style=for-the-badge&logo=sonarqube&logoColor=4E9BF5)](https://www.sonarsource.com/products/sonarqube/)
+
